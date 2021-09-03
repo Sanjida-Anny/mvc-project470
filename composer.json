@@ -1,0 +1,19 @@
+{
+    "name": "anny/hms",
+    "description": "BRAC UNIVERSITY:CSE470 Project Hotel Management System",
+    "authors": [
+        {
+            "name": "Sanjida-Anny",
+            "email": "sanjidasultanaanny98@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+           "app\\": "./app",
+           "test\\": "./testCode" 
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9"
+    }
+}

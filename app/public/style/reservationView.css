@@ -1,0 +1,33 @@
+.reservation-landing{
+    width: 50%;
+    margin-top: 10px;
+    background-color: white;
+    padding: 5%;
+    margin-left: 25%;
+    border-radius: 5px;
+}
+
+.reservation-landing h1{
+    position: relative;
+    margin-left: 32%;
+    margin-right: 38%;
+    margin-bottom: 5%;
+    font-weight: bold;
+    color: black;
+    border:3px solid #17bd1d;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px 0px;
+}
+
+.reservationViewForm{
+    position: relative;
+    width: 50%;
+    left: 20%
+}
+
+.reservationViewForm label{
+    padding-right: 25px;
+}
+
+
